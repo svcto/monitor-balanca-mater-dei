@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Desenvolvimento23\\.nuget\\packages\\": {}
+    "C:\\Users\\Nathy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorios\\Outros\\JA_Assessoria\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei.csproj",
+      "projectUniqueName": "C:\\Users\\Nathy\\Documents\\GitHub\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei.csproj",
       "projectName": "MonitorBalancaMaterDei",
-      "projectPath": "D:\\Repositorios\\Outros\\JA_Assessoria\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei.csproj",
-      "packagesPath": "C:\\Users\\Desenvolvimento23\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorios\\Outros\\JA_Assessoria\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\obj\\",
+      "projectPath": "C:\\Users\\Nathy\\Documents\\GitHub\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei.csproj",
+      "packagesPath": "C:\\Users\\Nathy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nathy\\Documents\\GitHub\\monitor-balanca-mater-dei\\MonitorBalancaMaterDei\\MonitorBalancaMaterDei\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Desenvolvimento23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
